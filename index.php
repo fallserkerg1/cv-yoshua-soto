@@ -57,9 +57,9 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Soy Yoshua Soto</h1>
-            <h3>Me llamo Yoshua Soto, soy <span>Desarrollador Web</span> y <span>Programador BackEnd</span> creativo e innovador, 
-            autodidacta, entusiasta con las grandes ideas, avances del mundo tecnologíco y el mundo de los E-sports. Conoce más <a class="smoothscroll" href="#about">sobre mi</a>
-            y lee sobre <a class="smoothscroll" href="#portfolio">mis intereses</a>.</h3>
+            <h3 style="color: white;">Me llamo Yoshua Soto, soy <span>Desarrollador Web</span> y <span>Programador BackEnd</span> creativo e innovador, 
+            autodidacta, entusiasta con las grandes ideas, avances del mundo tecnologíco y el mundo de los E-sports. Conoce más <a style="color: violet;" class="smoothscroll" href="#about">sobre mi</a>
+            y lee sobre <a style="color: violet;" class="smoothscroll" href="#portfolio">mis intereses</a>.</h3>
             <hr />
             <ul class="social">
                <li><a href="https://www.facebook.com/profile.php?id=100076023571851"><i class="fa fa-facebook"></i></a></li>
@@ -230,7 +230,7 @@
 
          <div class="nine columns main-col">
 
-            <p>Las habilidades fuerte son importantes, estas son las heramientas que utilizo cuando hago desarrollo web, muchas 
+            <p>Las habilidades fuertes son importantes, estas son las heramientas que utilizo cuando hago desarrollo web, muchas 
                de las cuales he aprendido de forma autodidacta.
             </p>
 
@@ -264,7 +264,7 @@
 
          <div class="twelve columns collapsed">
 
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Intereses</h1>
 
             <!-- portfolio-wrapper -->
             <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
@@ -273,11 +273,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-01" title="">
-                        <img alt="" src="images/portfolio/coffee.jpg">
+                        <img alt="" src="images/portfolio/economia.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Coffee</h5>
-                              <p>Illustrration</p>
+          					      <h5>Economia</h5>
+                              <p>Economia y Educación Financiera</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -290,11 +290,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-02" title="">
-                        <img alt="" src="images/portfolio/console.jpg">
+                        <img alt="" src="images/portfolio/historia.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Console</h5>
-                              <p>Web Development</p>
+          					      <h5>Historia</h5>
+                              <p>Historia Contemporanea</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -307,11 +307,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-03" title="">
-                        <img alt="" src="images/portfolio/judah.jpg">
+                        <img alt="" src="images/portfolio/literatura.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Judah</h5>
-                              <p>Webdesign</p>
+          					      <h5>Literatura</h5>
+                              <p>Libros Favoritos</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -324,11 +324,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-04" title="">
-                        <img alt="" src="images/portfolio/into-the-light.jpg">
+                        <img alt="" src="images/portfolio/esports.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Into The Light</h5>
-                              <p>Photography</p>
+          					      <h5>E-sports</h5>
+                              <p>Deportes Electrónicos</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -341,11 +341,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-05" title="">
-                        <img alt="" src="images/portfolio/farmerboy.jpg">
+                        <img alt="" src="images/portfolio/musical.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Farmer Boy</h5>
-                              <p>Branding</p>
+          					      <h5>Producción Musical</h5>
+                              <p>Crear tema musicales propios</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -358,11 +358,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-06" title="">
-                        <img alt="" src="images/portfolio/girl.jpg">
+                        <img alt="" src="images/portfolio/psicologia.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Girl</h5>
-                              <p>Photography</p>
+          					      <h5>Psicologia</h5>
+                              <p>Ciencias de la Psicologia y Sociología</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -375,11 +375,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-07" title="">
-                        <img alt="" src="images/portfolio/origami.jpg">
+                        <img alt="" src="images/portfolio/artificial.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Origami</h5>
-                              <p>Illustrration</p>
+          					      <h5>Inteligencia Artificial</h5>
+                              <p>Desarrollo y Avances</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -392,11 +392,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-08" title="">
-                        <img alt="" src="images/portfolio/retrocam.jpg">
+                        <img alt="" src="images/portfolio/online.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Retrocam</h5>
-                              <p>Web Development</p>
+          					      <h5>Educación Online</h5>
+                              <p>Desarrollo y avances</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -415,16 +415,21 @@
 
          <div id="modal-01" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-economia.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Coffee Cup</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
+			      <h4>Economia y Educación Financiera.</h4>
+			      <p>
+                  Para nuestra sociedad de Latinoamerica, estas ciencias esta siendo disponibles al alcance de todos, en la plataforma YouTube tenemos
+                  muchos tutores de estos temas que son parte de la vida cotidiana, las finanzas son parte importante para todo ambito de la vida, pero 
+                  he aprendido que no solo se trata del ahorro y de las inversiones, tambien son enseña a cuidar nuestros activos más preciados, la salud, 
+                  el tiempo, nuestro descanso, entender esto nos ha permitido tener una vida más optima ademas de entender como funciona la economia internacional, 
+                  como tener libertad financiera y ser abundantes, de esa manera podemos eliminar la mentalidad de escases y tener cultura financiera.
+               </p>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -432,16 +437,21 @@
 
          <div id="modal-02" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-historia.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Console</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Web Development</span>
+			      <h4>Historia Contemporanea.</h4>
+			      <p>
+                  La historia es tan importante como lo es el café en las mañanas, si no conocemos de la historia, estamos condenados a repetir los mismo 
+                  errores, esta actividad solitaria de leer sobre la historia, me ha permitido entender la evolución de las sociedades y la politica mundial 
+                  uno de los eventos más importantes que marcaron a la humanidad, fueron La Revolución Francesa, La revolucion Industrial, Los dos Guerras mundiales, 
+                  La Caida de la Unión Sovietica, y la Caida del Muro de Berlín, no son siemple actos de la humanidad, todos ellos dieron el inicio y el fin de la 
+                  renovación del ser humano, en los derechos individuales y en las libertades de cada individuo.
+               </p>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -449,16 +459,30 @@
 
          <div id="modal-03" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-literatura.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Judah</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding</span>
+			      <h4>Libros Favoritos.</h4>
+			      <p>
+                  En una época donde tenemos al alcance tanta información e ideas muy útiles como los audiolibros, he tenido la oportunidad de sacar tiempo 
+                  muy valioso para dedicar a la lectura y escuchar audiolibros, muchos de los cuales captan mi interes, los percibo como un mensaje del pasado 
+                  que nos dejaron esos autores, plasmando sus conocimientos para cada uno de nosotros, estos siguen vigentes hoy dia, estas son mis obras literarias que 
+                  han marcado y mejorado mi vida: <br>
+                  El Arte de la Guerra. <br>
+                  Las 48 Leyes del Poder. <br>
+                  La Riqueza de las Naciones. <br>
+                  1984. <br>
+                  Ovejas Elécticas. <br>
+                  El Hombre en el Castillo. <br>
+                  Neuromante. <br>
+                  Yo, Robot. <br>
+                  La Via del Samurai. <br>
+                  Padre Rico, Padre Pobre.
+               </p>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -466,16 +490,21 @@
 
          <div id="modal-04" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-esports.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Into the Light</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+			      <h4>E-sports, Deportes Electronicos.</h4>
+			      <p>
+                  Los videojuegos han sido el motor del avance de la tecnologia, estos han permitido impulsar el desarrollo del hardware al exigir un rendimiento 
+                  más optimo y una mejora de software, pero lo que más destaca es que los videojuegos generan más dinero que el cine y la música juntos, los deportes 
+                  electrónico o E-Sports, son ahora grandes eventos competitivos entre equipos, como equipos de futbol, profesionales, los jugadores son conocidos como 
+                  Pro-Gamers o jugadores profesionales, estos eventos se están haciendo muy populares y han cambiado la forma de ver los videojuegos en el mundo actual, 
+                  videojuegos como DOTA 2, Starcraft 2, y CS:GO, han demostrado, que el potencial de los videojuegos competitivos, son el futuro de los grandes eventos deportivos.     
+               </p>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -483,16 +512,21 @@
 
          <div id="modal-05" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-musical.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Farmer Boy</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
+			      <h4>Producción Musical.</h4>
+			      <p>
+                  Desde muy pequeño, me ha interesado la música, soy seguidor de muchas bandas y artistas sobre todo de Alemania y Japón, así que decidí de forma individual 
+                  aprender a crear música usando el software <a href="#" style="color: azul;">LMMS</a>, tambien tengo gustó por tocar la guitarra, la bateria y cantar, la música es un verdadero que 
+                  ha pasado por generaciones, y doy mi afirmación que actualmente hay mucha gente que hace muy buena música, pero no es la que esta de moda, es interesante   
+               </p>
+               <p>Escucha mi música aquí.</p>
+               <a href="https://soundcloud.com/yoshi-atsu-rock" class="button" style="background-color: orange; color: white;">Soundcloud</a>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -500,16 +534,20 @@
 
          <div id="modal-06" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-girl.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-psicologia.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Girl</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+			      <h4>Psicologia.</h4>
+			      <p>
+                  Una de las ciencias de la salud que más me han interesado y ha permitido desarrollar mi potencial como persona ha sido la psicologia, estudios me 
+                  han ayudado a entender a las personas, conocerme a mi mismo y esto me permite conocer en donde debe trabajar como persona, conocer mis fortalezas y 
+                  a partir de allí, desarrollar mis habilidades en el campo laboral, los negocios, y las ideas. Gracias a internet, tenemos mucho más a nuestro alcance 
+                  esta ciencia de la salud para cuidar nuestra mente, ser positivos, proactivos y servir a la sociedad de una mejor manera.
+               </p>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -517,16 +555,20 @@
 
          <div id="modal-07" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-artificial.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Origami</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Illustration</span>
+			      <h4>Inteligencia Artificial.</h4>
+			      <p>
+                  Suena como ciencia ficción, pero los avances del mismo dan dos caras de la moneda, la utopía escrita en los libros de la rebelión de las máquinas, o 
+                  un potencial desarrollo en la humanidad para mejorar el trabajo y el aprendizaje de las personas, la Inteligencia Artificial es de mucho interes y lo es 
+                  el mio tambien, sabemos que necesitamos al desarrollarla y nos permite adentrarnos en una era en la cual el desarrollo tecnológico permite que las personas 
+                  puedan tener una mejor vida al usar los dispositivos de la mejor manera.
+               </p>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -534,16 +576,20 @@
 
          <div id="modal-08" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-retrocam.jpg" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-online.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Retrocam</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Webdesign, Photography</span>
+			      <h4>Educación Online.</h4>
+			      <p>
+                  La Educación online ha sido un gran potencial para que personas de todas las edades puedan aprender y desarrollarse en el campo laboral, la demanda de empleos 
+                  en el mundo digital es enorme, hay muchisima demanda, y la universidades no estan al pie de los avances, no solo eso, muchas personas no cuentan con los recursos 
+                  para financiar su carrera, o no saben por donde comenzar, yo he estudiado en la escuela Platzi, y he aprendido sobre este potencial de la educación 
+                  online, está al alcance de todos, solo necesitamos una buena estructuración de la educación online, y muchas ganas de aprender. 
+               </p>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://www.behance.net" target="_blank"></a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -569,9 +615,10 @@
 
          <div class="seven columns">
 
-            <h2><span class="lead">Unde Omnis Iste</span></h2>
-            <p><span class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae. </span></p>
+            <h2><span class="lead">Pensamientos e Inspiraciones</span></h2>
+            <p><span class="lead">Aunque por muy trivial que parezca, hay personas que nos inspiran a crecer y a ser mejores cada día, entre esas personas 
+               esta grandes como Elon Musk, Steve Jobs, Freddy Vega y Jeff Bezos.  
+               </span></p>
 
          </div>
 
@@ -608,9 +655,8 @@
 
                      <li>
                         <blockquote>
-                           <p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is
-                           to do what you believe is great work. And the only way to do great work is to love what you do.
-                           If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+                           <p>Ser el hombre más rico del cementerio no significa nada para mí. 
+                              Irme a la cama por las noches sabiendo que hice algo extraordinario es lo que más me importa.
                            </p>
                            <cite>Steve Jobs</cite>
                         </blockquote>
@@ -618,11 +664,10 @@
 
                      <li>
                         <blockquote>
-                           <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                           Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                           nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+                           <p>Tu día será bueno si te despertás sabiendo que construirás un futuro mejor. 
+                              Si no, tendrás un mal día.
                            </p>
-                           <cite>Mr. Adobe</cite>
+                           <cite>Elon Musk</cite>
                         </blockquote>
                      </li> <!-- slide ends -->
 
@@ -653,9 +698,8 @@
 
             <div class="ten columns">
 
-                  <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                  voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                  <p class="lead">¿Necesitas una consulta?, ¿Desea saber más o contratar mis servicios? Escríbeme a la direccion que aparece abajo y 
+                     contácteme.
                   </p>
 
             </div>
@@ -663,7 +707,7 @@
          </div>
 
          <div class="row">
-
+      
             <div class="eight columns">
 
                <!-- form -->
@@ -671,27 +715,27 @@
 					<fieldset>
 
                   <div>
-						   <label for="contactName">Name <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactName" name="contactName">
+						   <label for="contactName">Nombre <span class="required">*</span></label>
+						   <input type="text" value="" size="35" id="contactName" name="contactName" readonly>
                   </div>
 
                   <div>
-						   <label for="contactEmail">Email <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
+						   <label for="contactEmail">Correo <span class="required">*</span></label>
+						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail" readonly>
                   </div>
 
                   <div>
-						   <label for="contactSubject">Subject</label>
-						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject">
+						   <label for="contactSubject">Asunto</label>
+						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject" readonly>
                   </div>
 
                   <div>
-                     <label for="contactMessage">Message <span class="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <label for="contactMessage">Mensaje <span class="required">*</span></label>
+                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage" readonly></textarea>
                   </div>
 
                   <div>
-                     <button class="submit">Submit</button>
+                     <button class="submit">Enviar</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif">
                      </span>
@@ -709,41 +753,31 @@
 
             </div>
 
+            -->
+
 
             <aside class="four columns footer-widgets">
 
                <div class="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Dirección y Teléfonos</h4>
 					   <p class="address">
-						   Jonathan Doe<br>
-						   1600 Amphitheatre Parkway <br>
-						   Mountain View, CA 94043 US<br>
-						   <span>(123) 456-7890</span>
+						   Yoshua Soto<br>
+						   Trapichito Sector 3 <br>
+						   Guarenas Edo. Miranda Venezuela<br>
+                     yoshuasoto54@gmail.com<br>
+						   <span>(+58) 0426-323-9292</span>
 					   </p>
 
 				   </div>
 
                <div class="widget widget_tweets">
 
-                  <h4 class="widget-title">Latest Tweets</h4>
+                  <h4 class="widget-title">Ultimos Tweets</h4>
 
                   <ul id="twitter">
                      <li>
-                        <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
-                        </span>
-                        <b><a href="#">2 Days Ago</a></b>
-                     </li>
-                     <li>
-                        <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
-                        </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                     <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/KloYoshi?ref_src=twsrc%5Etfw">Tweets by KloYoshi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                      </li>
                   </ul>
 
@@ -765,18 +799,14 @@
          <div class="twelve columns">
 
             <ul class="social-links">
-               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-               <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+               <li><a href="https://www.facebook.com/profile.php?id=100076023571851"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="https://twitter.com/KloYoshi"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/yoshua-soto-oliveros-025818160/"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://github.com/fallserkerg1?tab=repositories"><i class="fa fa-github"></i></a></li>
             </ul>
 
             <ul class="copyright">
-               <li>&copy; Copyright 2014 CeeVee</li>
-               <li>Design by <a href="http://www.styleshout.com/" title="Styleshout" target="_blank">Styleshout</a></li>   
+               <li>&copy; Copyright 2021 Yoshua Soto</li> 
             </ul>
 
          </div>
