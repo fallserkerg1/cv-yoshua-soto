@@ -643,7 +643,7 @@
 
             <div class="two columns header-col">
 
-               <h1><span>Client Testimonials</span></h1>
+               <h1><span>Frases Motivadoras</span></h1>
 
             </div>
 
@@ -692,7 +692,7 @@
 
             <div class="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+               <h1><span>Contáctame.</span></h1>
 
             </div>
 
