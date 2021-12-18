@@ -753,7 +753,7 @@
 
             </div>
 
-            -->
+            
 
 
             <aside class="four columns footer-widgets">
@@ -773,7 +773,7 @@
 
                <div class="widget widget_tweets">
 
-                  <h4 class="widget-title">Ultimos Tweets</h4>
+                  <h4 class="widget-title"></h4>
 
                   <ul id="twitter">
 
