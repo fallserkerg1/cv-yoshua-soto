@@ -776,9 +776,7 @@
                   <h4 class="widget-title">Ultimos Tweets</h4>
 
                   <ul id="twitter">
-                     <li>
-                     <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/KloYoshi?ref_src=twsrc%5Etfw">Tweets by KloYoshi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                     </li>
+
                   </ul>
 
 		         </div>
