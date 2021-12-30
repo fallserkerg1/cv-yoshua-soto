@@ -44,11 +44,12 @@
 	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" class="nav">
-            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+            <li class="current"><a class="smoothscroll" href="#home">Principal</a></li>
             <li><a class="smoothscroll" href="#about">Sobre Mi</a></li>
 	         <li><a class="smoothscroll" href="#resume">Educación</a></li>
             <li><a class="smoothscroll" href="#portfolio">Intereses</a></li>
             <li><a class="smoothscroll" href="#testimonials">Inspiraciones</a></li>
+            <li>Blog</li>
             <li><a class="smoothscroll" href="#contact">Contacto</a></li>
          </ul> <!-- end #nav -->
 
@@ -119,7 +120,7 @@
 
                <div class="columns download">
                   <p>
-                     <a href="Yoshua_Soto.pdf" class="button"><i class="fa fa-download"></i>Descargar mi CV</a>
+                     <a href="yoshua-soto-2022.pdf" class="button"><i class="fa fa-download" style="border-radius: 0.8%;"></i>Descargar mi CV</a>
                   </p>
                </div>
 
@@ -240,6 +241,7 @@
 					   <li><span class="bar-expand html5"></span><em>HTML5</em></li>
                   <li><span class="bar-expand css"></span><em>CSS</em></li>
                   <li><span class="bar-expand photoshop"></span><em>PHP</em></li>
+                  <li><span class="bar-expand photoshop"></span><em>Python</em></li>
 						<li><span class="bar-expand html5"></span><em>JavaScript</em></li>
 						<li><span class="bar-expand photoshop"></span><em>Bootstrap</em></li>
 						<li><span class="bar-expand photoshop"></span><em>Tailwind</em></li>
@@ -518,8 +520,9 @@
 			      <h4>Producción Musical.</h4>
 			      <p>
                   Desde muy pequeño, me ha interesado la música, soy seguidor de muchas bandas y artistas sobre todo de Alemania y Japón, así que decidí de forma individual 
-                  aprender a crear música usando el software <a href="#" style="color: azul;">LMMS</a>, tambien tengo gustó por tocar la guitarra, la bateria y cantar, la música es un verdadero que 
-                  ha pasado por generaciones, y doy mi afirmación que actualmente hay mucha gente que hace muy buena música, pero no es la que esta de moda, es interesante   
+                  aprender a crear música usando el software <a href="#" style="color: azul;">LMMS</a>, tambien tengo gustó por tocar la guitarra, la bateria y cantar, la música es un verdadero arte que 
+                  ha pasado por generaciones, y doy mi afirmación que actualmente hay mucha gente que hace muy buena música, pero no es la que esta de moda, es interesante conocer como las 
+                  influencias musicales han permitido que las nuevas generaciones creen fusiones y permitan la evolución de los géneros musicales.   
                </p>
                <p>Escucha mi música aquí.</p>
                <a href="https://soundcloud.com/yoshi-atsu-rock" class="button" style="background-color: orange; color: white;">Soundcloud</a>
@@ -583,7 +586,7 @@
 			      <p>
                   La Educación online ha sido un gran potencial para que personas de todas las edades puedan aprender y desarrollarse en el campo laboral, la demanda de empleos 
                   en el mundo digital es enorme, hay muchisima demanda, y la universidades no estan al pie de los avances, no solo eso, muchas personas no cuentan con los recursos 
-                  para financiar su carrera, o no saben por donde comenzar, yo he estudiado en la escuela Platzi, y he aprendido sobre este potencial de la educación 
+                  para financiar su carrera, o no saben por donde comenzar, yo estudio en la escuela Platzi, y he aprendido sobre este potencial de la educación 
                   online, está al alcance de todos, solo necesitamos una buena estructuración de la educación online, y muchas ganas de aprender. 
                </p>
 		      </div>
@@ -710,39 +713,14 @@
       
             <div class="eight columns">
 
-               <!-- form -->
-               <form action="" method="post" id="contactForm" name="contactForm">
-					<fieldset>
+            <div class="widget widget_contact">
+   
+               <h4>Twitter</h4>
+               <p class="address">
+               <a class="twitter-timeline" data-width="600" data-height="400" data-theme="dark" href="https://twitter.com/KloYoshi?ref_src=twsrc%5Etfw">Tweets by KloYoshi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+               </p>
 
-                  <div>
-						   <label for="contactName">Nombre <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactName" name="contactName" readonly>
-                  </div>
-
-                  <div>
-						   <label for="contactEmail">Correo <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail" readonly>
-                  </div>
-
-                  <div>
-						   <label for="contactSubject">Asunto</label>
-						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject" readonly>
-                  </div>
-
-                  <div>
-                     <label for="contactMessage">Mensaje <span class="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage" readonly></textarea>
-                  </div>
-
-                  <div>
-                     <button class="submit">Enviar</button>
-                     <span id="image-loader">
-                        <img alt="" src="images/loader.gif">
-                     </span>
-                  </div>
-
-					</fieldset>
-				   </form> <!-- Form End -->
+               </div>
 
                <!-- contact-warning -->
                <div id="message-warning"> Error boy</div>
@@ -763,7 +741,6 @@
 					   <h4>Dirección y Teléfonos</h4>
 					   <p class="address">
 						   Yoshua Soto<br>
-						   Trapichito Sector 3 <br>
 						   Guarenas Edo. Miranda Venezuela<br>
                      yoshuasoto54@gmail.com<br>
 						   <span>(+58) 0426-323-9292</span>
@@ -804,7 +781,7 @@
             </ul>
 
             <ul class="copyright">
-               <li>&copy; Copyright 2021 Yoshua Soto</li> 
+               <li>&copy; Copyright 2022 Yoshua Soto</li> 
             </ul>
 
          </div>
